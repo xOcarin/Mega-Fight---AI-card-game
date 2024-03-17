@@ -1,16 +1,16 @@
 # Mega Fight | AI card game
 ![megabattlelogo](https://github.com/xOcarin/Mega-Fight---AI-card-game/assets/119756949/62811bcc-cd58-4f62-b738-61b0ea4b5487)
 
-Mega Fight is a card game inspired by the game Superfight, a game where you argue about wacky hypothetical battles.
-The catch here, is the that all the cards are AI generated, and a depiction of the battle is also generated using the OpenAI api.
+Mega Fight is a card game inspired by the game Superfight, a game where you argue about wacky hypothetical battles. <br>
+The catch here, is the that all the cards are AI generated, and a depiction of the battle is also generated using the OpenAI api. <br>
 
-This app uses fals kfro its front-end, and python + the openAI api for its backend.
+This app uses fals kfro its front-end, and python + the openAI api for its backend. <br>
 
 # HOW TO PLAY:
-Download the repo
-Open the apikey.txt file
-Replace the text in the file with your own openAI apikey
-(Tip: you can get an API key by following this tutorial: https://www.youtube.com/watch?v=nafDyRsVnXU)
+Download the repo <br>
+Open the apikey.txt file <br>
+Replace the text in the file with your own openAI apikey <br>
+(Tip: you can get an API key by following this tutorial: https://www.youtube.com/watch?v=nafDyRsVnXU) <br>
 Save and close the text file
 Open the "appfiles" folder
 Find the megafight.exe and run it
