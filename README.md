@@ -14,7 +14,7 @@ Replace the text in the file with your own openAI apikey <br>
 Save and close the text file <br>
 Open the "appfiles" folder <br>
 Find the megafight.exe and run it <br>
-Grab some friends and some drinkgs an have fun! <br>
+Grab some friends and some drinks and have fun! <br>
 
 # ADDITIONAL INFORMATION:
 You can get 5 dollars worth of free API credits if it is your first time using the API. <br>
