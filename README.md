@@ -4,21 +4,21 @@
 Mega Fight is a card game inspired by the game Superfight, a game where you argue about wacky hypothetical battles. <br>
 The catch here, is the that all the cards are AI generated, and a depiction of the battle is also generated using the OpenAI api. <br>
 
-This app uses fals kfro its front-end, and python + the openAI api for its backend. <br>
+This app uses Flask for its front-end, and python + the openAI api for its backend. <br>
 
 # HOW TO PLAY:
 Download the repo <br>
 Open the apikey.txt file <br>
 Replace the text in the file with your own openAI apikey <br>
 (Tip: you can get an API key by following this tutorial: https://www.youtube.com/watch?v=nafDyRsVnXU) <br>
-Save and close the text file
-Open the "appfiles" folder
-Find the megafight.exe and run it
-Grab some friends and some drinkgs an have fun!
+Save and close the text file <br>
+Open the "appfiles" folder <br>
+Find the megafight.exe and run it <br>
+Grab some friends and some drinkgs an have fun! <br>
 
 # ADDITIONAL INFORMATION:
-You can get 5 dollars worth of free API credits if it is your first time using the API.
-The App costs about ~4 cents USD worth of API credits per generation.
+You can get 5 dollars worth of free API credits if it is your first time using the API. <br>
+The App costs about ~4 cents USD worth of API credits per generation. <br>
 
 # SCREEN SHOTS:
 
